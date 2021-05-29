@@ -1,0 +1,5 @@
+pkg install git 
+pkg install wget
+pkg install proot
+pkg update && pkg upgrade
+pkg install php
